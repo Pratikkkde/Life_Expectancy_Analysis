@@ -1,7 +1,5 @@
 # Life_Expectancy_Prediction
 
-please help me write a readme file to explain my project on github. the project is life expectancy predictions . the columns are like country year, life expectancy, adult mortality, infant deaths, alcohol, percentage expenditure, measles, hep b, bmi, polio, dipthera, hiv, gdp, population, thinness__10-19_years, thinness__5-9_years , income_composition_of_resources, schooling, and we calculated using Machine learning predicted life expectancy and errors, we also used  python(cleaning, preprocessing, preparation of ml files) sql(detailed analysis) and excel(cleaning and management of data). 
-
 # Data overview
 
 The dataset contains the following features:
